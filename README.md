@@ -12,8 +12,8 @@ N/A
 ## Usage
 To show that an apllication's code can be consolidated into less code and the web page can look and funtion the same.
 
-[alt text](CodeRefactorChallenge\Develop\assets\images\ch1-1.png)
-[alt text](CodeRefactorChallenge\Develop\assets\images\ch1-2.png)
+[alt text](C:\Users\kbree\bootcamp\Challenge-1\CodeRefactorChallenge-1\CodeRefactorChallenge\Develop\assets\images\ch1-1.png)
+[alt text](C:\Users\kbree\bootcamp\Challenge-1\CodeRefactorChallenge-1\CodeRefactorChallenge\Develop\assets\images\ch1-2.png)
 
 ## Credits
 
