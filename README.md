@@ -1,7 +1,7 @@
 # CodeRefactorChallenge
 HTML, CSS &amp; Git Refactor Challenge
 
-## Derscription
+## Discription
  The end result for a challenge to refactor an application. The application was consolidated and the semantic elements were re-named and organized. By re-naming certain classes, the CSS code can be minimized to save space and lines while still maintaining same form and function of application. Changed the "seo" in the h1 header to a brighter color to be seen easier.
 
 
